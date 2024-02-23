@@ -37,7 +37,7 @@ git commit -m "Adding project README"
 git push upstream input_default_branch
 ```
 
-## Configure CI/CD - Azure DevOps
+## Configure CI/CD - Azure DevOpsgit
 
 Azure DevOps Pipelines are defined under `.azure/devops-pipelines`:
 - **`deploy-cicd.yml`**:<br>
